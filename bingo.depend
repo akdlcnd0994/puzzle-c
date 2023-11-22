@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700628384 source:c:\users\user\desktop\bingo\main.c
+	<stdio.h>
+	<time.h>
+
